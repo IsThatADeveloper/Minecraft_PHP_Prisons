@@ -1,0 +1,6 @@
+name: PrisonBlockCore
+main: prisoncore\esh123unicorn\Main
+api: 4.0.0
+author: esh123unicorn
+version: 1.0.0
+description: "PrisonCore by esh123unicorn"
